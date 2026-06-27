@@ -1,3 +1,1 @@
-testkey123
-vip_access
-starlink_bypass
+VIP-187804
